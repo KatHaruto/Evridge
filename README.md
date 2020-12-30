@@ -17,7 +17,7 @@ python
 >> from database import init_db
 >> init_db()
 ```
-the function create SQLite database 'evridge.db' at your current directroy
+init_fb function create SQLite database 'evridge.db' at your current directroy
 
 to start server and evridge, enter the following command,
 ```
