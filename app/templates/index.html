@@ -191,7 +191,7 @@
                         {% else %}
                             <img src='/static/image/alternate.jpg' alt="image" class="event_img">
                         {% endif %}
-                        <br> <div class="event_contents"><p>{{event.host}}{{event.title}}</p>  </div>     
+                        <br> <div class="event_contents"><p>{{event.host}} {{event.title}}</p>  </div>     
                         <a href="{{ url_for('show_detail',event_id=event.event_id, user_id=event.user_id) }}">詳細ページ</a></br>
                     </li>
                     </br>
