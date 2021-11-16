@@ -1,3 +1,5 @@
+This was created for a class project, to learn the overview of web applications.
+
 # Evridge
 Simple Web Application which everyone can inform and advertise their event or something
 
